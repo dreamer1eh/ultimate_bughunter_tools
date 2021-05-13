@@ -56,7 +56,7 @@ Ultimate Package Of 50 Bug Bounty Hunting Tools is a script to install the most 
 - ysoserial
 
 
-# Installing
+# Installation
 - git clone https://github.com/dreamer1eh/ultimate_bughunter_tools
 - cd ultimate_bht
 - chmod +x install.sh
