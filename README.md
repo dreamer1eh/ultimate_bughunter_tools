@@ -64,9 +64,9 @@ Ultimate Package Of 50 Bug Bounty Hunting Tools is a script to install the most 
 - cd ~/ultimate_bht      
 
 
-# Follow Dreamer On Social Media, Contact me there for any query:"
-- Github    : https://github.com/dreamer1eh/ "
-- YouTube   : @dreamer1eh {https://www.youtube.com/dreamer1eh/} "
-- Instagram : @dreamer1eh {https://www.instagram.com/dreamer1eh/} "
-- Twitter   : @dreamer1eh   {https://twitter.com/dreamer1eh/}"
-- LinkedIn  : https://linkedin.com/in/rajnish-kumar-eh/"
+# Follow Dreamer On Social Media, Contact me there for any query:
+- Github    : https://github.com/dreamer1eh/ 
+- YouTube   : https://www.youtube.com/dreamer1eh/
+- Instagram : https://www.instagram.com/dreamer1eh/
+- Twitter   : https://twitter.com/dreamer1eh/
+- LinkedIn  : https://linkedin.com/in/rajnish-kumar-eh/
