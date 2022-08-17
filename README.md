@@ -65,8 +65,9 @@ Ultimate Package Of 50 Bug Bounty Hunting Tools is a script to install the most 
 
 
 # Follow Dreamer On Social Media, Contact me there for any query:
+- Website   : https://www.dreamereh.ml/
 - Github    : https://github.com/dreamer1eh/ 
-- YouTube   : https://www.youtube.com/dreamer1eh/
-- Instagram : https://www.instagram.com/dreamer1eh/
-- Twitter   : https://twitter.com/dreamer1eh/
+- YouTube   : https://www.youtube.com/iehdreamer/
+- Instagram : https://www.instagram.com/i_eh_dreamer/
+- Twitter   : https://twitter.com/i_eh_dreamer/
 - LinkedIn  : https://linkedin.com/in/rajnish-kumar-eh/
