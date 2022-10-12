@@ -48,6 +48,7 @@ Ultimate Package Of 50 Bug Bounty Hunting Tools is a script to install the most 
 - teh_s3_bucketeers
 - thc-hydra
 - tko-subs
+- UPI INT
 - virtual-host-discovery
 - wfuzz
 - wpscan

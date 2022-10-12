@@ -413,6 +413,11 @@ cd ~/ultimate_bht/
 echo " "
 sleep 1
 
+echo "[#] Downloading UPI-INT..."
+git clone https://github.com/BiswajeetRay7/UPI-INT.git 
+echo "[+] Done "
+cd ~/ultimate_bht/
+
 echo "[#] Downloading lazyrecon..."
 git clone https://github.com/nahamsec/lazyrecon.git
 echo "[+] Done "
